@@ -1,0 +1,2 @@
+- Seems to happen only in Chrome
+- Happens whether using OGG or MP3 audio file
